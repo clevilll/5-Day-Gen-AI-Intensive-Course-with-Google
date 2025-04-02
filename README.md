@@ -14,7 +14,7 @@ What's being covered? (white paper links included below)
 
   RQ0: What SOTA for this use case?
 
-📂[white paper PDFs](https://github.com/clevilll/5-Day-Gen-AI-Intensive-Course-with-Google/tree/main/white-paper-PDFs)
+📂[white paper PDFs](https://github.com/clevilll/5-Day-Gen-AI-Intensive-Course-with-Google/tree/main/White-Paper-PDFs)
 
 Capstone Project goes live: 
 On the final day of the event, April 4th, 2025, we will launch the capstone project, giving you the opportunity to apply the knowledge you've gained throughout the course. By participating in the capstone project, you will earn both a badge and a certificate on Kaggle.
