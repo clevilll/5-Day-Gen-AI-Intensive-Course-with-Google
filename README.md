@@ -1,4 +1,6 @@
 # 5-Day-Gen-AI-Intensive-Course-with-Google 2025
+![image](https://github.com/user-attachments/assets/ffdd79e8-36cf-4dc0-87c2-b043cc17e1fc)
+
 Podcast playlist in YT: https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE
 
 What's being covered? (white paper links included below)
