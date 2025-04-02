@@ -26,3 +26,7 @@ All participants will have a chance to receive [a badge on their Kaggle profile]
 
 Note:
 All info credits belong to this source from Google and Kaggle: https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1 
+
+---
+- Previous course YT series (Nov 11, 2024): https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es
+- This repo summrizued the learnings: https://github.com/di37/google-5day-genai-intensive-course
